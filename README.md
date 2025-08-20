@@ -9,4 +9,9 @@
 https://github.com/AppBlitz/unit-converter.git
 ```
 
-## Change into the project directory:
+## 2. Change into the project directory:
+
+```bash
+cd unit-converter
+
+```
