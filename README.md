@@ -5,6 +5,6 @@
 
 ## 1. clone the repository
 
-`https://github.com/AppBlitz/unit-converter.git`
+```https://github.com/AppBlitz/unit-converter.git```
 
 ## Change into the project directory:
