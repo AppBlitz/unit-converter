@@ -1,5 +1,5 @@
-[!WARNING]
-The code is not finished, so it is best not to clone or run it.
+> [!WARNING]
+> The code is not finished, so it is best not to clone or run it.
 
 # Installation
 
